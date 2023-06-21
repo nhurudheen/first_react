@@ -14,7 +14,7 @@ const LargeNavBar = () => {
                <div className=' text-sm'>Login</div>
                <div className=''>
                 
-            <DesignButton buttonText={'Register'} bgColor={'white'} textColor={'black'} />
+            <DesignButton buttonText={'Register'} bgColor={'white'} textColor={'black'} hoverColor={'bg-black'} hover_text_color={'text-white'} />
                </div>
             </div>
         </div>
